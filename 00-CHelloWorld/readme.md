@@ -21,12 +21,11 @@ Hello, World!
 
 ### e. Compilar con make (crédito extra)
 ```
-make ./hello
-cc    hello.c   -o hello
+
 ```
 
 ### f. Ejecutar con make (crédito extra)
 ```
-./hello
+
 
 ```
